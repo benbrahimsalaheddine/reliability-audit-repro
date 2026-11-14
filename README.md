@@ -56,8 +56,8 @@ see `std/S16_items_kept_std.py`). No manual relabeling is applied.
 | --- | --- | --- |
 | `table2_summeval_std.py` | SummEval per-dimension reliabilities (rho_1, rho_k), fidelity, tau^2 (main SummEval table) | `RES_table2_summeval_std.txt`, `RESULTS_std_table2_summeval_B10000_v01.txt` |
 | `irep_std.py` | IRep reliabilities across seeds | `RESULTS_irep_B10000_seeds0to3_v01.txt` |
-| `W1_false_positive_std.py`, `inc_W1.py` | W1: false-positive rate of the per-panel test | `RES_W1_false_positive_std.txt`, `RES_W1_std.txt` |
-| `calib_std.py`, `inc_calib.py` | W2: item vs nested-document calibration (FPR at corr 0 / 0.3) | `RES_calib_std_0.txt`, `RES_calib_std_0.3.txt`, `RES_calib_std_N5000_*.txt` |
+| `W1_false_positive_std.py`, `inc_W1.py` | false-positive rate of the per-panel test | `RES_W1_false_positive_std.txt`, `RES_W1_std.txt` |
+| `calib_std.py`, `inc_calib.py` | item vs nested-document calibration (FPR at corr 0 / 0.3) | `RES_calib_std_0.txt`, `RES_calib_std_0.3.txt`, `RES_calib_std_N5000_*.txt` |
 | `robust_sim_std.py`, `inc_robust.py` | Size and power of the test under the reported setting | `RES_robust_sim_std.txt` |
 | `care_summeval.py`, `care_3judges.py` | CARE baseline comparison | `RES_care_summeval.txt`, `RES_care_3judges.txt` |
 | `d3code_recount_std.py` | D3Code certificate–fidelity inversions (recount) | `RES_d3code_recount_std.txt` |
@@ -89,11 +89,11 @@ every draw.
 | --- | --- | --- |
 | `tables_panels_v121.py` | Per-panel and per-pair summary tables | `table_panels_v121.csv`, `table_pairs_v121.csv`, `RESULTS_tables_v121.txt` |
 
-### `w1/` — W1 false-positive (original)
+### `w1/` — false-positive rate (independent rerun)
 
 | Script | Produces | Output file |
 | --- | --- | --- |
-| `assumption_W1_false_positive_v121.py`, `run.py` | W1 false-positive rate (v121 run) | `RESULTS_rerun.txt` |
+| `assumption_W1_false_positive_v121.py`, `run.py` | false-positive rate (independent rerun) | `RESULTS_rerun.txt` |
 
 ### `irepseed/` — IRep seed sensitivity
 
@@ -106,7 +106,7 @@ every draw.
 | Script | Produces |
 | --- | --- |
 | `sim_general_case_v113.py` | Shared simulation module (imported by the calibration scripts) |
-| `nested_sim_v114.py` | Nested-document calibration simulation (W2) |
+| `nested_sim_v114.py` | Nested-document calibration simulation |
 | `seeds_calib_v121.py` | Seed sensitivity of the calibration and the bounds |
 | `d3code_bonferroni_v113.py` | D3Code inversions surviving a Bonferroni correction |
 | `d3code_equal_significant_v113.py` | D3Code inversion counts (two-sided / one-sided) |

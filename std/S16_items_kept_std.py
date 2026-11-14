@@ -1,4 +1,4 @@
-# S-1.6: for each dataset, items in the release vs items used by the >=2-ratings-per-panel rule. Counting only; no resampling.
+# For each dataset, items in the release vs items used by the >=2-ratings-per-panel rule. Counting only; no resampling.
 import json,pandas as pd,numpy as np
 out=[]
 def rep(name,total,kept,note=''): out.append(f"{name:28s} total {total:>7,}  used {kept:>7,}  dropped {total-kept:>6,} ({100*(total-kept)/total:.1f}%)  {note}")

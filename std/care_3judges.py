@@ -48,4 +48,4 @@ for d,_ in DIM:
         print(f'    one-factor loading^2 {nm}: {l2[i]:.3f}  [{ci[0,i]:.3f}, {ci[1,i]:.3f}]   share of draws with loading^2 > 1: {frac[i]:.2f}')
     Sx,Lx=ns['learn_structure'](R,gamma=1,solver=cp.SCS,verbose=False,max_iters=10000)
     ev=np.sort(np.linalg.eigvalsh(0.5*(Lx+Lx.T)))[::-1]
-    print(f'    authors\' learn_structure on this 3x3, gamma=1: eigenvalues of the low-rank part = {np.round(ev,4)}',flush=True)
+    print(f'    CARE authors\' learn_structure on this 3x3, gamma=1: eigenvalues of the low-rank part = {np.round(ev,4)}',flush=True)

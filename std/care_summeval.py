@@ -1,9 +1,9 @@
-# CARE-SVD (authors' own code, github.com/SprocketLab/CARE, commit cloned 12 Nov 2026) applied to SummEval.
+# CARE-SVD (the CARE authors' code, github.com/SprocketLab/CARE) applied to SummEval.
 # We load ONLY their functions learn_structure and get_weights, unmodified, via ast (the rest of pgm_tools needs snorkel/torch, which we do not use).
 # Columns of the judge matrix X (items x raters), per SummEval dimension:
 #   A) 3 panel means: J (9 LLM judges, share of positive answers), E (3 experts), C (5 crowd workers)
 #   B) 17 raters: 9 judges + 3 expert slots + 5 crowd slots (crowd slots are exchangeable, not persistent persons)
-# CARE input = correlation matrix of X. gamma is the sparsity weight; the authors tune it on a validation set against a ground truth.
+# CARE input = correlation matrix of X. gamma is the sparsity weight; the CARE authors tune it on a validation set against a ground truth.
 # We have no ground truth, so we report several gamma values from their grid. SCS solver, max_iters=10000 as in their script. No randomness: seed not used.
 import ast, sys, json, csv, re, numpy as np, pandas as pd, scipy as sp, cvxpy as cp
 csv.field_size_limit(10**9)

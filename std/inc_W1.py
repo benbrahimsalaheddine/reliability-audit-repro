@@ -1,4 +1,4 @@
-# FaeU W1, resumable and vectorised. Model: ybar_p,i = l_p mu_i + e_p,i, Var(mu)=1, noise 0.25, tau^2 = 0 for every panel.
+# False-positive rate of the per-panel test, resumable and vectorised. Model: ybar_p,i = l_p mu_i + e_p,i, Var(mu)=1, noise 0.25, tau^2 = 0 for every panel.
 # Two panels: tau_hat_p = Var(ybar_p) - Cov(ybar_p,ybar_q) - noise (Eq. 3.8). Three panels: triad estimate (Eq. 3.26).
 # One-sided 5% test: tau_hat > 1.645 * bootstrap SE (item bootstrap, B = 10000). Chunks of CH replications, seed [0, cell, chunk].
 import numpy as np, json, os, sys, time

@@ -1,4 +1,4 @@
-# FaeU W1: with unequal loadings and NO panel-specific component (tau^2 = 0), how often does the one-sided test flag the panel with the larger loading?
+# With unequal loadings and NO panel-specific component (tau^2 = 0), how often does the one-sided test flag the panel with the larger loading?
 # Model: ybar_p,i = l_p mu_i + e_p,i, Var(mu)=1, Var(e_p)=0.25 (noise of the panel mean), tau^2 = 0 for every panel. n items, 400 replications, item bootstrap with 200 draws, one-sided 5% test (tau_hat > 1.645 * bootstrap SE).
 # Two panels: tau_hat_p = Var(ybar_p) - Cov(ybar_p,ybar_q) - noise (Eq. 3.8).  Three panels: tau_hat_p = Var(ybar_p) - noise - triad estimate of l_p^2 s2 (Eq. 3.26).  Seed 0.
 import numpy as np

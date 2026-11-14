@@ -1,4 +1,4 @@
-# FaeU W1 / F-W1.3, F-W1.4: per-panel flags of tau_p^2 under equal loadings and under free loadings, on every dataset with >= 3 panels. Seed 0. 12 Nov 2026.
+# Per-panel flags of tau_p^2 under equal loadings and under free loadings, on every dataset with >= 3 panels. Seed 0.
 # Equal-loading estimator (as in v64): tau_hat_p = Var(ybar_p) - mean_{q != p} Cov(ybar_p, ybar_q) - noise_p.
 # Free-loading estimator: tau_hat_p = Var(ybar_p) - noise_p - a_p^2, with a_p^2 = S_pq S_pr / S_qr (P = 3, triad identity) or from the one-factor
 #   least-squares fit of the off-diagonals (P >= 4).  noise_p = mean within-item variance (ddof=1) * mean(1/k), as in the v64 IRep script.
