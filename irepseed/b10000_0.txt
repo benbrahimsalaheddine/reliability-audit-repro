@@ -1,0 +1,1 @@
+seed 0 B=10000: {'Budapest': 14, 'Mexico': 8, 'KualaLumpur': 25}

@@ -1,0 +1,39 @@
+dataset,panel_1,panel_2,items,cov,r
+D3code,Arab Culture,Indian Cultural Sphere,3622,0.334,0.372
+D3code,Arab Culture,Latin America,3622,0.392,0.413
+D3code,Arab Culture,North America,3622,0.355,0.368
+D3code,Arab Culture,Oceania,3622,0.336,0.37
+D3code,Arab Culture,Sinosphere,3622,0.284,0.359
+D3code,Arab Culture,Sub Saharan Africa,3622,0.361,0.371
+D3code,Arab Culture,Western Europe,3622,0.36,0.398
+D3code,Indian Cultural Sphere,Latin America,3622,0.366,0.443
+D3code,Indian Cultural Sphere,North America,3622,0.304,0.362
+D3code,Indian Cultural Sphere,Oceania,3622,0.286,0.363
+D3code,Indian Cultural Sphere,Sinosphere,3622,0.217,0.315
+D3code,Indian Cultural Sphere,Sub Saharan Africa,3622,0.3,0.354
+D3code,Indian Cultural Sphere,Western Europe,3622,0.299,0.38
+D3code,Latin America,North America,3622,0.413,0.465
+D3code,Latin America,Oceania,3622,0.353,0.423
+D3code,Latin America,Sinosphere,3622,0.218,0.299
+D3code,Latin America,Sub Saharan Africa,3622,0.355,0.397
+D3code,Latin America,Western Europe,3622,0.359,0.433
+D3code,North America,Oceania,3622,0.398,0.469
+D3code,North America,Sinosphere,3622,0.225,0.303
+D3code,North America,Sub Saharan Africa,3622,0.336,0.369
+D3code,North America,Western Europe,3622,0.407,0.482
+D3code,Oceania,Sinosphere,3622,0.186,0.267
+D3code,Oceania,Sub Saharan Africa,3622,0.31,0.362
+D3code,Oceania,Western Europe,3622,0.376,0.474
+D3code,Sinosphere,Sub Saharan Africa,3622,0.252,0.338
+D3code,Sinosphere,Western Europe,3622,0.217,0.313
+D3code,Sub Saharan Africa,Western Europe,3622,0.306,0.359
+CREHate,Australia,Singapore,1580,0.068,0.518
+CREHate,Australia,South Africa,1580,0.081,0.61
+CREHate,Australia,United Kingdom,1580,0.097,0.678
+CREHate,Australia,United States,1580,0.094,0.639
+CREHate,Singapore,South Africa,1580,0.06,0.495
+CREHate,Singapore,United Kingdom,1580,0.07,0.539
+CREHate,Singapore,United States,1580,0.077,0.577
+CREHate,South Africa,United Kingdom,1580,0.079,0.596
+CREHate,South Africa,United States,1580,0.081,0.602
+CREHate,United Kingdom,United States,1580,0.094,0.645

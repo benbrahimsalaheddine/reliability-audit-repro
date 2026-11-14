@@ -1,0 +1,3 @@
+scenario                 tau2  flag rate   mean est   (bias)
+base                     0.0     4.4%     0.001   (+0.001)   [412s]
+base                     0.3    93.7%     0.298   (-0.002)   [395s]

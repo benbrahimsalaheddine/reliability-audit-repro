@@ -1,0 +1,10 @@
+dim | mean pairwise judge corr | first-PC share | corr(first PC, expert) | corr(first PC, crowd) | R2 exp beyond crowd | R2 crowd beyond exp
+coherence   n=155 | 0.50 (0.22-0.70) | 0.562 | 0.52 | -0.01 | 0.27 | 0.00
+consistency n=200 | 0.57 (0.19-0.91) | 0.654 | 0.70 | 0.01 | 0.45 | 0.00
+fluency     n=200 | 0.45 (0.20-0.83) | 0.528 | 0.24 | 0.05 | 0.10 | 0.00
+relevance   n=200 | 0.50 (0.27-0.76) | 0.564 | 0.65 | 0.05 | 0.42 | 0.00
+gap excludes zero: 90% interval 33 of 36 | 95% interval 32 of 36
+coherence mean gap 0.40 n gap>0.35: 7 n gap>0: 9
+consistency mean gap 0.53 n gap>0.35: 7 n gap>0: 9
+fluency mean gap 0.16 n gap>0.35: 1 n gap>0: 8
+relevance mean gap 0.45 n gap>0.35: 9 n gap>0: 9

@@ -1,0 +1,13 @@
+Jigsaw pools ['African American', 'Control', 'LGBTQ'] items 25490
+  African American  rho_k 0.557  rho_star(with each other pool) Control 0.597, LGBTQ 0.599
+  Control           rho_k 0.604  rho_star(with each other pool) African American 0.514, LGBTQ 0.588
+  LGBTQ             rho_k 0.646  rho_star(with each other pool) African American 0.511, Control 0.584
+  pair African American - Control : gap rho_k -0.047 [-0.054,-0.040] ; gap rho_star +0.084 [+0.074,+0.093] ; reversed in point estimate: True ; both gaps exclude 0: True
+  pair African American - LGBTQ : gap rho_k -0.089 [-0.096,-0.082] ; gap rho_star +0.088 [+0.078,+0.097] ; reversed in point estimate: True ; both gaps exclude 0: True
+  pair Control - LGBTQ : gap rho_k -0.042 [-0.048,-0.036] ; gap rho_star +0.004 [-0.006,+0.014] ; reversed in point estimate: True ; both gaps exclude 0: False
+
+D3code North America - Sinosphere, own items (>=2 raters in both): 4427 items
+  r = 0.294 ; covariance 0.221
+  North America  var 0.915 noise 0.458 rho_k 0.499 rho_star 0.241 tau2_hat 0.236
+  Sinosphere     var 0.617 noise 0.417 rho_k 0.324 rho_star 0.357 tau2_hat -0.020
+  shared share of reliable variance: Cov/(mean reliable var) = 0.672 ; Cov/sqrt(prod reliable var) = 0.730

@@ -1,0 +1,6 @@
+SummEval                     total   1,600  used   1,600  dropped      0 (0.0%)  experts>=2 and crowd>=2
+DICES-990                    total     990  used     990  dropped      0 (0.0%)  locales ['IN', 'US']
+D3code (28 pairs: min..max)  total   4,554  used   3,898  dropped    656 (14.4%)  pair sizes 3898..4494, median 4391
+D3code (rated in all 8)      total   4,554  used   4,365  dropped    189 (4.2%)  any rating in all regions
+IRep (3 city pools)          total  38,499  used   4,248  dropped 34,251 (89.0%)  >=2 raters in each pool
+Jigsaw SRP                   total  25,500  used  25,490  dropped     10 (0.0%)  >=2 non-null in all 3 pools

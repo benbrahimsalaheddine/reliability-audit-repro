@@ -1,0 +1,284 @@
+{"cell": 0, "sc": "base", "tau2": 0.0, "c": 0, "flags": 11, "sum": -0.531960568077803}
+{"cell": 0, "sc": "base", "tau2": 0.0, "c": 1, "flags": 8, "sum": -1.1817579449725888}
+{"cell": 0, "sc": "base", "tau2": 0.0, "c": 2, "flags": 11, "sum": -0.8353463180373187}
+{"cell": 0, "sc": "base", "tau2": 0.0, "c": 3, "flags": 8, "sum": -0.49589688428435397}
+{"cell": 0, "sc": "base", "tau2": 0.0, "c": 4, "flags": 9, "sum": -0.18233662641395193}
+{"cell": 0, "sc": "base", "tau2": 0.0, "c": 5, "flags": 10, "sum": 1.3094713237051105}
+{"cell": 0, "sc": "base", "tau2": 0.0, "c": 6, "flags": 9, "sum": -0.40542060371116917}
+{"cell": 0, "sc": "base", "tau2": 0.0, "c": 7, "flags": 13, "sum": 0.48906911946815074}
+{"cell": 0, "sc": "base", "tau2": 0.0, "c": 8, "flags": 13, "sum": 1.1171123424851266}
+{"cell": 0, "sc": "base", "tau2": 0.0, "c": 9, "flags": 12, "sum": 0.740248429012389}
+{"cell": 0, "sc": "base", "tau2": 0.0, "c": 10, "flags": 9, "sum": 0.2732907414834824}
+{"cell": 0, "sc": "base", "tau2": 0.0, "c": 11, "flags": 11, "sum": 0.5111488683791168}
+{"cell": 0, "sc": "base", "tau2": 0.0, "c": 12, "flags": 11, "sum": -1.0556708310091172}
+{"cell": 0, "sc": "base", "tau2": 0.0, "c": 13, "flags": 9, "sum": -0.05915511109918564}
+{"cell": 0, "sc": "base", "tau2": 0.0, "c": 14, "flags": 13, "sum": 1.0292255394221215}
+{"cell": 0, "sc": "base", "tau2": 0.0, "c": 15, "flags": 15, "sum": 1.1733215977800209}
+{"cell": 0, "sc": "base", "tau2": 0.0, "c": 16, "flags": 7, "sum": -0.06932517858476536}
+{"cell": 0, "sc": "base", "tau2": 0.0, "c": 17, "flags": 12, "sum": 1.1640048688786664}
+{"cell": 0, "sc": "base", "tau2": 0.0, "c": 18, "flags": 4, "sum": -0.6466646779413125}
+{"cell": 0, "sc": "base", "tau2": 0.0, "c": 19, "flags": 12, "sum": -0.37277288251884955}
+{"cell": 1, "sc": "base", "tau2": 0.3, "c": 0, "flags": 241, "sum": 76.14863320251168}
+{"cell": 1, "sc": "base", "tau2": 0.3, "c": 1, "flags": 237, "sum": 75.91212228889843}
+{"cell": 1, "sc": "base", "tau2": 0.3, "c": 2, "flags": 237, "sum": 74.22521057068573}
+{"cell": 1, "sc": "base", "tau2": 0.3, "c": 3, "flags": 236, "sum": 74.74715007062707}
+{"cell": 1, "sc": "base", "tau2": 0.3, "c": 4, "flags": 234, "sum": 76.68045110803868}
+{"cell": 1, "sc": "base", "tau2": 0.3, "c": 5, "flags": 240, "sum": 73.57919324751528}
+{"cell": 1, "sc": "base", "tau2": 0.3, "c": 6, "flags": 232, "sum": 73.8507363569138}
+{"cell": 1, "sc": "base", "tau2": 0.3, "c": 7, "flags": 236, "sum": 74.5329286523599}
+{"cell": 1, "sc": "base", "tau2": 0.3, "c": 8, "flags": 234, "sum": 75.25634995314}
+{"cell": 1, "sc": "base", "tau2": 0.3, "c": 9, "flags": 234, "sum": 75.24330678023439}
+{"cell": 1, "sc": "base", "tau2": 0.3, "c": 10, "flags": 240, "sum": 77.02175138533647}
+{"cell": 1, "sc": "base", "tau2": 0.3, "c": 11, "flags": 237, "sum": 74.50242788393548}
+{"cell": 1, "sc": "base", "tau2": 0.3, "c": 12, "flags": 232, "sum": 73.52534979195502}
+{"cell": 1, "sc": "base", "tau2": 0.3, "c": 13, "flags": 234, "sum": 72.79917097987232}
+{"cell": 1, "sc": "base", "tau2": 0.3, "c": 14, "flags": 235, "sum": 76.19387533704642}
+{"cell": 1, "sc": "base", "tau2": 0.3, "c": 15, "flags": 238, "sum": 75.36109131734898}
+{"cell": 1, "sc": "base", "tau2": 0.3, "c": 16, "flags": 238, "sum": 77.3165418505131}
+{"cell": 1, "sc": "base", "tau2": 0.3, "c": 17, "flags": 233, "sum": 74.26584023730832}
+{"cell": 1, "sc": "base", "tau2": 0.3, "c": 18, "flags": 233, "sum": 76.52161288290144}
+{"cell": 1, "sc": "base", "tau2": 0.3, "c": 19, "flags": 233, "sum": 75.4440613606602}
+{"cell": 2, "sc": "A2 var. by item", "tau2": 0.0, "c": 0, "flags": 8, "sum": 1.023743633959117}
+{"cell": 2, "sc": "A2 var. by item", "tau2": 0.0, "c": 1, "flags": 11, "sum": 1.297568511019953}
+{"cell": 2, "sc": "A2 var. by item", "tau2": 0.0, "c": 2, "flags": 7, "sum": 0.423334826694988}
+{"cell": 2, "sc": "A2 var. by item", "tau2": 0.0, "c": 3, "flags": 8, "sum": -1.9635491002289622}
+{"cell": 2, "sc": "A2 var. by item", "tau2": 0.0, "c": 4, "flags": 7, "sum": 0.7625841892286532}
+{"cell": 2, "sc": "A2 var. by item", "tau2": 0.0, "c": 5, "flags": 11, "sum": -0.9636383075776819}
+{"cell": 2, "sc": "A2 var. by item", "tau2": 0.0, "c": 6, "flags": 8, "sum": -1.3243609258954403}
+{"cell": 2, "sc": "A2 var. by item", "tau2": 0.0, "c": 7, "flags": 9, "sum": -0.7635364058761718}
+{"cell": 2, "sc": "A2 var. by item", "tau2": 0.0, "c": 8, "flags": 7, "sum": 0.9825049509394553}
+{"cell": 2, "sc": "A2 var. by item", "tau2": 0.0, "c": 9, "flags": 5, "sum": -0.9099368168512622}
+{"cell": 2, "sc": "A2 var. by item", "tau2": 0.0, "c": 10, "flags": 9, "sum": -1.626278329528169}
+{"cell": 2, "sc": "A2 var. by item", "tau2": 0.0, "c": 11, "flags": 14, "sum": -0.2850381090023725}
+{"cell": 2, "sc": "A2 var. by item", "tau2": 0.0, "c": 12, "flags": 11, "sum": 1.0191472875460146}
+{"cell": 2, "sc": "A2 var. by item", "tau2": 0.0, "c": 13, "flags": 10, "sum": -0.8461903578925186}
+{"cell": 2, "sc": "A2 var. by item", "tau2": 0.0, "c": 14, "flags": 12, "sum": 0.8343009546164933}
+{"cell": 2, "sc": "A2 var. by item", "tau2": 0.0, "c": 15, "flags": 17, "sum": -0.4222795740837234}
+{"cell": 2, "sc": "A2 var. by item", "tau2": 0.0, "c": 16, "flags": 13, "sum": 1.3222868054061736}
+{"cell": 2, "sc": "A2 var. by item", "tau2": 0.0, "c": 17, "flags": 7, "sum": -1.4278207582084304}
+{"cell": 2, "sc": "A2 var. by item", "tau2": 0.0, "c": 18, "flags": 13, "sum": 1.2014396802384304}
+{"cell": 2, "sc": "A2 var. by item", "tau2": 0.0, "c": 19, "flags": 17, "sum": 1.1111736054014905}
+{"cell": 3, "sc": "A2 var. by item", "tau2": 0.3, "c": 0, "flags": 234, "sum": 73.88477710294873}
+{"cell": 3, "sc": "A2 var. by item", "tau2": 0.3, "c": 1, "flags": 230, "sum": 77.34383730723552}
+{"cell": 3, "sc": "A2 var. by item", "tau2": 0.3, "c": 2, "flags": 226, "sum": 74.64280880955761}
+{"cell": 3, "sc": "A2 var. by item", "tau2": 0.3, "c": 3, "flags": 230, "sum": 77.75538599109193}
+{"cell": 3, "sc": "A2 var. by item", "tau2": 0.3, "c": 4, "flags": 220, "sum": 75.71636991110226}
+{"cell": 3, "sc": "A2 var. by item", "tau2": 0.3, "c": 5, "flags": 226, "sum": 74.63894627247728}
+{"cell": 3, "sc": "A2 var. by item", "tau2": 0.3, "c": 6, "flags": 221, "sum": 74.46966813905945}
+{"cell": 3, "sc": "A2 var. by item", "tau2": 0.3, "c": 7, "flags": 225, "sum": 77.22419652272522}
+{"cell": 3, "sc": "A2 var. by item", "tau2": 0.3, "c": 8, "flags": 219, "sum": 76.37224068981905}
+{"cell": 3, "sc": "A2 var. by item", "tau2": 0.3, "c": 9, "flags": 210, "sum": 71.65571732283496}
+{"cell": 3, "sc": "A2 var. by item", "tau2": 0.3, "c": 10, "flags": 229, "sum": 76.48121081910891}
+{"cell": 3, "sc": "A2 var. by item", "tau2": 0.3, "c": 11, "flags": 222, "sum": 74.13478150034032}
+{"cell": 3, "sc": "A2 var. by item", "tau2": 0.3, "c": 12, "flags": 222, "sum": 77.44667257265982}
+{"cell": 3, "sc": "A2 var. by item", "tau2": 0.3, "c": 13, "flags": 218, "sum": 75.52706862415108}
+{"cell": 3, "sc": "A2 var. by item", "tau2": 0.3, "c": 14, "flags": 222, "sum": 78.02617923673489}
+{"cell": 3, "sc": "A2 var. by item", "tau2": 0.3, "c": 15, "flags": 215, "sum": 73.29709873668568}
+{"cell": 3, "sc": "A2 var. by item", "tau2": 0.3, "c": 16, "flags": 225, "sum": 75.48951960143914}
+{"cell": 3, "sc": "A2 var. by item", "tau2": 0.3, "c": 17, "flags": 219, "sum": 74.98536744711954}
+{"cell": 3, "sc": "A2 var. by item", "tau2": 0.3, "c": 18, "flags": 223, "sum": 76.63155654071637}
+{"cell": 3, "sc": "A2 var. by item", "tau2": 0.3, "c": 19, "flags": 221, "sum": 75.90280564027032}
+{"cell": 4, "sc": "A11 skewed", "tau2": 0.0, "c": 0, "flags": 16, "sum": 0.012866790568154846}
+{"cell": 4, "sc": "A11 skewed", "tau2": 0.0, "c": 1, "flags": 14, "sum": -0.44092086796096464}
+{"cell": 4, "sc": "A11 skewed", "tau2": 0.0, "c": 2, "flags": 8, "sum": -0.35489198555267143}
+{"cell": 4, "sc": "A11 skewed", "tau2": 0.0, "c": 3, "flags": 7, "sum": -0.030670153616722956}
+{"cell": 4, "sc": "A11 skewed", "tau2": 0.0, "c": 4, "flags": 9, "sum": 0.45814291932100315}
+{"cell": 4, "sc": "A11 skewed", "tau2": 0.0, "c": 5, "flags": 10, "sum": -0.3774470570070142}
+{"cell": 4, "sc": "A11 skewed", "tau2": 0.0, "c": 6, "flags": 21, "sum": 0.5581077857392945}
+{"cell": 4, "sc": "A11 skewed", "tau2": 0.0, "c": 7, "flags": 13, "sum": 0.7948680968844348}
+{"cell": 4, "sc": "A11 skewed", "tau2": 0.0, "c": 8, "flags": 10, "sum": -1.9790707242151255}
+{"cell": 4, "sc": "A11 skewed", "tau2": 0.0, "c": 9, "flags": 11, "sum": 0.35058449833824007}
+{"cell": 4, "sc": "A11 skewed", "tau2": 0.0, "c": 10, "flags": 12, "sum": -0.2767889015649935}
+{"cell": 4, "sc": "A11 skewed", "tau2": 0.0, "c": 11, "flags": 15, "sum": -0.9334406763881948}
+{"cell": 4, "sc": "A11 skewed", "tau2": 0.0, "c": 12, "flags": 8, "sum": 0.3561759225947934}
+{"cell": 4, "sc": "A11 skewed", "tau2": 0.0, "c": 13, "flags": 12, "sum": -0.3410057098208489}
+{"cell": 4, "sc": "A11 skewed", "tau2": 0.0, "c": 14, "flags": 13, "sum": 0.7690054599314533}
+{"cell": 4, "sc": "A11 skewed", "tau2": 0.0, "c": 15, "flags": 10, "sum": -0.09071644664417317}
+{"cell": 4, "sc": "A11 skewed", "tau2": 0.0, "c": 16, "flags": 7, "sum": -1.4788384690630094}
+{"cell": 4, "sc": "A11 skewed", "tau2": 0.0, "c": 17, "flags": 4, "sum": -1.3553825763894385}
+{"cell": 4, "sc": "A11 skewed", "tau2": 0.0, "c": 18, "flags": 10, "sum": -0.46205782245751004}
+{"cell": 4, "sc": "A11 skewed", "tau2": 0.0, "c": 19, "flags": 13, "sum": 0.922595297278634}
+{"cell": 5, "sc": "A11 skewed", "tau2": 0.3, "c": 0, "flags": 223, "sum": 75.46376057358499}
+{"cell": 5, "sc": "A11 skewed", "tau2": 0.3, "c": 1, "flags": 225, "sum": 72.74515821995544}
+{"cell": 5, "sc": "A11 skewed", "tau2": 0.3, "c": 2, "flags": 219, "sum": 76.12588048921793}
+{"cell": 5, "sc": "A11 skewed", "tau2": 0.3, "c": 3, "flags": 215, "sum": 74.07886522569756}
+{"cell": 5, "sc": "A11 skewed", "tau2": 0.3, "c": 4, "flags": 218, "sum": 74.1437210233944}
+{"cell": 5, "sc": "A11 skewed", "tau2": 0.3, "c": 5, "flags": 235, "sum": 79.85228538568838}
+{"cell": 5, "sc": "A11 skewed", "tau2": 0.3, "c": 6, "flags": 221, "sum": 74.58252286823632}
+{"cell": 5, "sc": "A11 skewed", "tau2": 0.3, "c": 7, "flags": 229, "sum": 76.72429799554568}
+{"cell": 5, "sc": "A11 skewed", "tau2": 0.3, "c": 8, "flags": 231, "sum": 75.01431997606018}
+{"cell": 5, "sc": "A11 skewed", "tau2": 0.3, "c": 9, "flags": 223, "sum": 75.16752244212846}
+{"cell": 5, "sc": "A11 skewed", "tau2": 0.3, "c": 10, "flags": 221, "sum": 74.81934455503959}
+{"cell": 5, "sc": "A11 skewed", "tau2": 0.3, "c": 11, "flags": 228, "sum": 75.09969976998829}
+{"cell": 5, "sc": "A11 skewed", "tau2": 0.3, "c": 12, "flags": 233, "sum": 74.99471826507907}
+{"cell": 5, "sc": "A11 skewed", "tau2": 0.3, "c": 13, "flags": 232, "sum": 76.08897082711104}
+{"cell": 5, "sc": "A11 skewed", "tau2": 0.3, "c": 14, "flags": 229, "sum": 74.26670672879133}
+{"cell": 5, "sc": "A11 skewed", "tau2": 0.3, "c": 15, "flags": 231, "sum": 75.97448066795677}
+{"cell": 5, "sc": "A11 skewed", "tau2": 0.3, "c": 16, "flags": 219, "sum": 76.09126180691271}
+{"cell": 5, "sc": "A11 skewed", "tau2": 0.3, "c": 17, "flags": 221, "sum": 74.28930631001347}
+{"cell": 5, "sc": "A11 skewed", "tau2": 0.3, "c": 18, "flags": 226, "sum": 76.67835529752381}
+{"cell": 5, "sc": "A11 skewed", "tau2": 0.3, "c": 19, "flags": 229, "sum": 79.22655085489714}
+{"cell": 6, "sc": "A11 ordinal 1-5", "tau2": 0.0, "c": 0, "flags": 14, "sum": 1.1283458961474035}
+{"cell": 6, "sc": "A11 ordinal 1-5", "tau2": 0.0, "c": 1, "flags": 9, "sum": 0.23867985762144187}
+{"cell": 6, "sc": "A11 ordinal 1-5", "tau2": 0.0, "c": 2, "flags": 8, "sum": -0.6419399078726971}
+{"cell": 6, "sc": "A11 ordinal 1-5", "tau2": 0.0, "c": 3, "flags": 8, "sum": -0.7125340242881046}
+{"cell": 6, "sc": "A11 ordinal 1-5", "tau2": 0.0, "c": 4, "flags": 11, "sum": -0.018383061139028378}
+{"cell": 6, "sc": "A11 ordinal 1-5", "tau2": 0.0, "c": 5, "flags": 6, "sum": 0.2939792713567857}
+{"cell": 6, "sc": "A11 ordinal 1-5", "tau2": 0.0, "c": 6, "flags": 8, "sum": -0.2815583123953084}
+{"cell": 6, "sc": "A11 ordinal 1-5", "tau2": 0.0, "c": 7, "flags": 5, "sum": 0.2628114530988292}
+{"cell": 6, "sc": "A11 ordinal 1-5", "tau2": 0.0, "c": 8, "flags": 11, "sum": -0.5269666038525956}
+{"cell": 6, "sc": "A11 ordinal 1-5", "tau2": 0.0, "c": 9, "flags": 12, "sum": -0.18362227805694648}
+{"cell": 6, "sc": "A11 ordinal 1-5", "tau2": 0.0, "c": 10, "flags": 9, "sum": 0.02475240787269678}
+{"cell": 6, "sc": "A11 ordinal 1-5", "tau2": 0.0, "c": 11, "flags": 14, "sum": 0.36664049413735594}
+{"cell": 6, "sc": "A11 ordinal 1-5", "tau2": 0.0, "c": 12, "flags": 12, "sum": 0.03809516331658347}
+{"cell": 6, "sc": "A11 ordinal 1-5", "tau2": 0.0, "c": 13, "flags": 7, "sum": 0.2421424832495854}
+{"cell": 6, "sc": "A11 ordinal 1-5", "tau2": 0.0, "c": 14, "flags": 9, "sum": -0.2089002303182573}
+{"cell": 6, "sc": "A11 ordinal 1-5", "tau2": 0.0, "c": 15, "flags": 13, "sum": 0.41794074539363657}
+{"cell": 6, "sc": "A11 ordinal 1-5", "tau2": 0.0, "c": 16, "flags": 10, "sum": -0.4425696189279717}
+{"cell": 6, "sc": "A11 ordinal 1-5", "tau2": 0.0, "c": 17, "flags": 7, "sum": -0.04821712730318192}
+{"cell": 6, "sc": "A11 ordinal 1-5", "tau2": 0.0, "c": 18, "flags": 13, "sum": 0.6477805695142389}
+{"cell": 6, "sc": "A11 ordinal 1-5", "tau2": 0.0, "c": 19, "flags": 16, "sum": 1.387297948073703}
+{"cell": 7, "sc": "A11 ordinal 1-5", "tau2": 0.3, "c": 0, "flags": 238, "sum": 46.57455349664992}
+{"cell": 7, "sc": "A11 ordinal 1-5", "tau2": 0.3, "c": 1, "flags": 238, "sum": 45.12262091708543}
+{"cell": 7, "sc": "A11 ordinal 1-5", "tau2": 0.3, "c": 2, "flags": 237, "sum": 46.77603538525963}
+{"cell": 7, "sc": "A11 ordinal 1-5", "tau2": 0.3, "c": 3, "flags": 242, "sum": 47.7092797319933}
+{"cell": 7, "sc": "A11 ordinal 1-5", "tau2": 0.3, "c": 4, "flags": 244, "sum": 47.21793498743718}
+{"cell": 7, "sc": "A11 ordinal 1-5", "tau2": 0.3, "c": 5, "flags": 236, "sum": 46.359704250418766}
+{"cell": 7, "sc": "A11 ordinal 1-5", "tau2": 0.3, "c": 6, "flags": 237, "sum": 46.39297581658292}
+{"cell": 7, "sc": "A11 ordinal 1-5", "tau2": 0.3, "c": 7, "flags": 241, "sum": 46.13784181323283}
+{"cell": 7, "sc": "A11 ordinal 1-5", "tau2": 0.3, "c": 8, "flags": 238, "sum": 46.20486337939698}
+{"cell": 7, "sc": "A11 ordinal 1-5", "tau2": 0.3, "c": 9, "flags": 238, "sum": 48.16941582914573}
+{"cell": 7, "sc": "A11 ordinal 1-5", "tau2": 0.3, "c": 10, "flags": 233, "sum": 45.78055067001675}
+{"cell": 7, "sc": "A11 ordinal 1-5", "tau2": 0.3, "c": 11, "flags": 239, "sum": 46.77243823283082}
+{"cell": 7, "sc": "A11 ordinal 1-5", "tau2": 0.3, "c": 12, "flags": 237, "sum": 47.085056532663316}
+{"cell": 7, "sc": "A11 ordinal 1-5", "tau2": 0.3, "c": 13, "flags": 239, "sum": 47.14945875209381}
+{"cell": 7, "sc": "A11 ordinal 1-5", "tau2": 0.3, "c": 14, "flags": 238, "sum": 47.08983406616415}
+{"cell": 7, "sc": "A11 ordinal 1-5", "tau2": 0.3, "c": 15, "flags": 240, "sum": 46.6179114321608}
+{"cell": 7, "sc": "A11 ordinal 1-5", "tau2": 0.3, "c": 16, "flags": 241, "sum": 47.16272246649916}
+{"cell": 7, "sc": "A11 ordinal 1-5", "tau2": 0.3, "c": 17, "flags": 237, "sum": 46.99462939698493}
+{"cell": 7, "sc": "A11 ordinal 1-5", "tau2": 0.3, "c": 18, "flags": 234, "sum": 46.754654522613066}
+{"cell": 7, "sc": "A11 ordinal 1-5", "tau2": 0.3, "c": 19, "flags": 236, "sum": 47.03653737437186}
+{"cell": 8, "sc": "A12 unequal k", "tau2": 0.0, "c": 0, "flags": 14, "sum": 0.9378476904890277}
+{"cell": 8, "sc": "A12 unequal k", "tau2": 0.0, "c": 1, "flags": 13, "sum": -0.3772993527308527}
+{"cell": 8, "sc": "A12 unequal k", "tau2": 0.0, "c": 2, "flags": 11, "sum": 0.4589554876306877}
+{"cell": 8, "sc": "A12 unequal k", "tau2": 0.0, "c": 3, "flags": 10, "sum": 0.10309310705561694}
+{"cell": 8, "sc": "A12 unequal k", "tau2": 0.0, "c": 4, "flags": 14, "sum": 1.1136282891994722}
+{"cell": 8, "sc": "A12 unequal k", "tau2": 0.0, "c": 5, "flags": 11, "sum": 0.06656025727639023}
+{"cell": 8, "sc": "A12 unequal k", "tau2": 0.0, "c": 6, "flags": 12, "sum": 0.5167237243372973}
+{"cell": 8, "sc": "A12 unequal k", "tau2": 0.0, "c": 7, "flags": 10, "sum": 1.279489392311627}
+{"cell": 8, "sc": "A12 unequal k", "tau2": 0.0, "c": 8, "flags": 10, "sum": -0.6417187126273094}
+{"cell": 8, "sc": "A12 unequal k", "tau2": 0.0, "c": 9, "flags": 5, "sum": -1.1815480349000362}
+{"cell": 8, "sc": "A12 unequal k", "tau2": 0.0, "c": 10, "flags": 7, "sum": -0.11812135010096522}
+{"cell": 8, "sc": "A12 unequal k", "tau2": 0.0, "c": 11, "flags": 8, "sum": 0.0641313738428497}
+{"cell": 8, "sc": "A12 unequal k", "tau2": 0.0, "c": 12, "flags": 15, "sum": -0.5370187535891967}
+{"cell": 8, "sc": "A12 unequal k", "tau2": 0.0, "c": 13, "flags": 10, "sum": 0.8567468442628843}
+{"cell": 8, "sc": "A12 unequal k", "tau2": 0.0, "c": 14, "flags": 11, "sum": -0.2624913635375381}
+{"cell": 8, "sc": "A12 unequal k", "tau2": 0.0, "c": 15, "flags": 12, "sum": 0.5831688346091326}
+{"cell": 8, "sc": "A12 unequal k", "tau2": 0.0, "c": 16, "flags": 16, "sum": 1.1265350173987936}
+{"cell": 8, "sc": "A12 unequal k", "tau2": 0.0, "c": 17, "flags": 8, "sum": -0.8079273903269911}
+{"cell": 8, "sc": "A12 unequal k", "tau2": 0.0, "c": 18, "flags": 11, "sum": 0.36544183573376143}
+{"cell": 8, "sc": "A12 unequal k", "tau2": 0.0, "c": 19, "flags": 5, "sum": -2.1668285992165206}
+{"cell": 9, "sc": "A12 unequal k", "tau2": 0.3, "c": 0, "flags": 233, "sum": 72.91823357376707}
+{"cell": 9, "sc": "A12 unequal k", "tau2": 0.3, "c": 1, "flags": 237, "sum": 76.39494184605833}
+{"cell": 9, "sc": "A12 unequal k", "tau2": 0.3, "c": 2, "flags": 234, "sum": 76.78756240822908}
+{"cell": 9, "sc": "A12 unequal k", "tau2": 0.3, "c": 3, "flags": 236, "sum": 73.76527362545936}
+{"cell": 9, "sc": "A12 unequal k", "tau2": 0.3, "c": 4, "flags": 238, "sum": 75.9933566900325}
+{"cell": 9, "sc": "A12 unequal k", "tau2": 0.3, "c": 5, "flags": 237, "sum": 75.5329691867717}
+{"cell": 9, "sc": "A12 unequal k", "tau2": 0.3, "c": 6, "flags": 229, "sum": 71.6893465243099}
+{"cell": 9, "sc": "A12 unequal k", "tau2": 0.3, "c": 7, "flags": 235, "sum": 75.64541182761579}
+{"cell": 9, "sc": "A12 unequal k", "tau2": 0.3, "c": 8, "flags": 234, "sum": 74.50132352630379}
+{"cell": 9, "sc": "A12 unequal k", "tau2": 0.3, "c": 9, "flags": 227, "sum": 71.05539076165408}
+{"cell": 9, "sc": "A12 unequal k", "tau2": 0.3, "c": 10, "flags": 232, "sum": 75.24967678536103}
+{"cell": 9, "sc": "A12 unequal k", "tau2": 0.3, "c": 11, "flags": 237, "sum": 77.86970809045502}
+{"cell": 9, "sc": "A12 unequal k", "tau2": 0.3, "c": 12, "flags": 237, "sum": 74.63164616373298}
+{"cell": 9, "sc": "A12 unequal k", "tau2": 0.3, "c": 13, "flags": 234, "sum": 76.56837473553053}
+{"cell": 9, "sc": "A12 unequal k", "tau2": 0.3, "c": 14, "flags": 221, "sum": 72.99102328307661}
+{"cell": 9, "sc": "A12 unequal k", "tau2": 0.3, "c": 15, "flags": 228, "sum": 73.90796419945431}
+{"cell": 9, "sc": "A12 unequal k", "tau2": 0.3, "c": 16, "flags": 238, "sum": 74.68608273917984}
+{"cell": 9, "sc": "A12 unequal k", "tau2": 0.3, "c": 17, "flags": 236, "sum": 75.40299796714434}
+{"cell": 9, "sc": "A12 unequal k", "tau2": 0.3, "c": 18, "flags": 234, "sum": 72.61353945275081}
+{"cell": 9, "sc": "A12 unequal k", "tau2": 0.3, "c": 19, "flags": 234, "sum": 76.86283250196183}
+{"cell": 10, "sc": "A1 AR(1) 0.5", "tau2": 0.0, "c": 0, "flags": 6, "sum": -0.22628608463661243}
+{"cell": 10, "sc": "A1 AR(1) 0.5", "tau2": 0.0, "c": 1, "flags": 14, "sum": -1.6077784862235664}
+{"cell": 10, "sc": "A1 AR(1) 0.5", "tau2": 0.0, "c": 2, "flags": 9, "sum": 0.6206474797196694}
+{"cell": 10, "sc": "A1 AR(1) 0.5", "tau2": 0.0, "c": 3, "flags": 11, "sum": -1.591932423976434}
+{"cell": 10, "sc": "A1 AR(1) 0.5", "tau2": 0.0, "c": 4, "flags": 13, "sum": -0.32325771596504327}
+{"cell": 10, "sc": "A1 AR(1) 0.5", "tau2": 0.0, "c": 5, "flags": 16, "sum": 0.7219615117478986}
+{"cell": 10, "sc": "A1 AR(1) 0.5", "tau2": 0.0, "c": 6, "flags": 5, "sum": -0.3571068119315907}
+{"cell": 10, "sc": "A1 AR(1) 0.5", "tau2": 0.0, "c": 7, "flags": 11, "sum": 0.8751472426774177}
+{"cell": 10, "sc": "A1 AR(1) 0.5", "tau2": 0.0, "c": 8, "flags": 12, "sum": 2.33208273639825}
+{"cell": 10, "sc": "A1 AR(1) 0.5", "tau2": 0.0, "c": 9, "flags": 12, "sum": 0.7155778027325261}
+{"cell": 10, "sc": "A1 AR(1) 0.5", "tau2": 0.0, "c": 10, "flags": 7, "sum": -0.7580173767678098}
+{"cell": 10, "sc": "A1 AR(1) 0.5", "tau2": 0.0, "c": 11, "flags": 6, "sum": -1.597680231189055}
+{"cell": 10, "sc": "A1 AR(1) 0.5", "tau2": 0.0, "c": 12, "flags": 9, "sum": 0.7752226803598006}
+{"cell": 10, "sc": "A1 AR(1) 0.5", "tau2": 0.0, "c": 13, "flags": 9, "sum": -0.8942926979858313}
+{"cell": 10, "sc": "A1 AR(1) 0.5", "tau2": 0.0, "c": 14, "flags": 10, "sum": 0.81153102104533}
+{"cell": 10, "sc": "A1 AR(1) 0.5", "tau2": 0.0, "c": 15, "flags": 10, "sum": 1.0965815095273919}
+{"cell": 10, "sc": "A1 AR(1) 0.5", "tau2": 0.0, "c": 16, "flags": 11, "sum": -0.6937393157521525}
+{"cell": 10, "sc": "A1 AR(1) 0.5", "tau2": 0.0, "c": 17, "flags": 8, "sum": -0.5542219145672564}
+{"cell": 10, "sc": "A1 AR(1) 0.5", "tau2": 0.0, "c": 18, "flags": 6, "sum": -1.2786258736690068}
+{"cell": 10, "sc": "A1 AR(1) 0.5", "tau2": 0.0, "c": 19, "flags": 10, "sum": -0.47040356952180495}
+{"cell": 11, "sc": "A1 AR(1) 0.5", "tau2": 0.3, "c": 0, "flags": 232, "sum": 74.55956386802129}
+{"cell": 11, "sc": "A1 AR(1) 0.5", "tau2": 0.3, "c": 1, "flags": 237, "sum": 75.90883206403784}
+{"cell": 11, "sc": "A1 AR(1) 0.5", "tau2": 0.3, "c": 2, "flags": 234, "sum": 77.54207552892797}
+{"cell": 11, "sc": "A1 AR(1) 0.5", "tau2": 0.3, "c": 3, "flags": 237, "sum": 74.38787271236919}
+{"cell": 11, "sc": "A1 AR(1) 0.5", "tau2": 0.3, "c": 4, "flags": 229, "sum": 74.67877401605566}
+{"cell": 11, "sc": "A1 AR(1) 0.5", "tau2": 0.3, "c": 5, "flags": 226, "sum": 71.88797739559857}
+{"cell": 11, "sc": "A1 AR(1) 0.5", "tau2": 0.3, "c": 6, "flags": 232, "sum": 73.00247219790333}
+{"cell": 11, "sc": "A1 AR(1) 0.5", "tau2": 0.3, "c": 7, "flags": 241, "sum": 78.42488795287456}
+{"cell": 11, "sc": "A1 AR(1) 0.5", "tau2": 0.3, "c": 8, "flags": 226, "sum": 73.05093657978306}
+{"cell": 11, "sc": "A1 AR(1) 0.5", "tau2": 0.3, "c": 9, "flags": 238, "sum": 75.30967399884946}
+{"cell": 11, "sc": "A1 AR(1) 0.5", "tau2": 0.3, "c": 10, "flags": 232, "sum": 76.00602798924368}
+{"cell": 11, "sc": "A1 AR(1) 0.5", "tau2": 0.3, "c": 11, "flags": 230, "sum": 73.42299033328815}
+{"cell": 11, "sc": "A1 AR(1) 0.5", "tau2": 0.3, "c": 12, "flags": 233, "sum": 75.35815511213656}
+{"cell": 11, "sc": "A1 AR(1) 0.5", "tau2": 0.3, "c": 13, "flags": 236, "sum": 73.81868684456644}
+{"cell": 11, "sc": "A1 AR(1) 0.5", "tau2": 0.3, "c": 14, "flags": 233, "sum": 76.92738683424876}
+{"cell": 11, "sc": "A1 AR(1) 0.5", "tau2": 0.3, "c": 15, "flags": 229, "sum": 75.46863893316981}
+{"cell": 11, "sc": "A1 AR(1) 0.5", "tau2": 0.3, "c": 16, "flags": 231, "sum": 73.84009346104472}
+{"cell": 11, "sc": "A1 AR(1) 0.5", "tau2": 0.3, "c": 17, "flags": 234, "sum": 75.85516723559581}
+{"cell": 11, "sc": "A1 AR(1) 0.5", "tau2": 0.3, "c": 18, "flags": 231, "sum": 75.8423830127513}
+{"cell": 11, "sc": "A1 AR(1) 0.5", "tau2": 0.3, "c": 19, "flags": 235, "sum": 74.43330244294306}
+{"cell": 12, "sc": "A6 unequal var.", "tau2": 0.0, "c": 0, "flags": 11, "sum": 0.2548518957255609}
+{"cell": 12, "sc": "A6 unequal var.", "tau2": 0.0, "c": 1, "flags": 11, "sum": 0.9804107706101436}
+{"cell": 12, "sc": "A6 unequal var.", "tau2": 0.0, "c": 2, "flags": 11, "sum": 1.240134133009052}
+{"cell": 12, "sc": "A6 unequal var.", "tau2": 0.0, "c": 3, "flags": 8, "sum": -0.6387748763060679}
+{"cell": 12, "sc": "A6 unequal var.", "tau2": 0.0, "c": 4, "flags": 8, "sum": -0.12924900149274998}
+{"cell": 12, "sc": "A6 unequal var.", "tau2": 0.0, "c": 5, "flags": 9, "sum": -0.6912544834950661}
+{"cell": 12, "sc": "A6 unequal var.", "tau2": 0.0, "c": 6, "flags": 9, "sum": 0.4361251353282981}
+{"cell": 12, "sc": "A6 unequal var.", "tau2": 0.0, "c": 7, "flags": 17, "sum": 0.36857698925631305}
+{"cell": 12, "sc": "A6 unequal var.", "tau2": 0.0, "c": 8, "flags": 7, "sum": -0.08664132068593067}
+{"cell": 12, "sc": "A6 unequal var.", "tau2": 0.0, "c": 9, "flags": 9, "sum": -1.3384259579448194}
+{"cell": 12, "sc": "A6 unequal var.", "tau2": 0.0, "c": 10, "flags": 12, "sum": 0.8361850982139716}
+{"cell": 12, "sc": "A6 unequal var.", "tau2": 0.0, "c": 11, "flags": 10, "sum": 0.49687223619816945}
+{"cell": 12, "sc": "A6 unequal var.", "tau2": 0.0, "c": 12, "flags": 11, "sum": -0.34925723796627095}
+{"cell": 12, "sc": "A6 unequal var.", "tau2": 0.0, "c": 13, "flags": 11, "sum": 0.17696920350468498}
+{"cell": 12, "sc": "A6 unequal var.", "tau2": 0.0, "c": 14, "flags": 11, "sum": -0.6656993528643443}
+{"cell": 12, "sc": "A6 unequal var.", "tau2": 0.0, "c": 15, "flags": 14, "sum": 1.4207942574640757}
+{"cell": 12, "sc": "A6 unequal var.", "tau2": 0.0, "c": 16, "flags": 6, "sum": -0.05727732458825249}
+{"cell": 12, "sc": "A6 unequal var.", "tau2": 0.0, "c": 17, "flags": 16, "sum": 1.395362351273178}
+{"cell": 12, "sc": "A6 unequal var.", "tau2": 0.0, "c": 18, "flags": 8, "sum": -1.9586119035402287}
+{"cell": 12, "sc": "A6 unequal var.", "tau2": 0.0, "c": 19, "flags": 16, "sum": 0.5443610037930234}
+{"cell": 13, "sc": "A6 unequal var.", "tau2": 0.3, "c": 0, "flags": 206, "sum": 73.63489326061224}
+{"cell": 13, "sc": "A6 unequal var.", "tau2": 0.3, "c": 1, "flags": 218, "sum": 74.22432917443443}
+{"cell": 13, "sc": "A6 unequal var.", "tau2": 0.3, "c": 2, "flags": 218, "sum": 75.91044467262934}
+{"cell": 13, "sc": "A6 unequal var.", "tau2": 0.3, "c": 3, "flags": 213, "sum": 74.44469896185443}
+{"cell": 13, "sc": "A6 unequal var.", "tau2": 0.3, "c": 4, "flags": 214, "sum": 72.44112648139489}
+{"cell": 13, "sc": "A6 unequal var.", "tau2": 0.3, "c": 5, "flags": 213, "sum": 73.70216185504593}
+{"cell": 13, "sc": "A6 unequal var.", "tau2": 0.3, "c": 6, "flags": 206, "sum": 72.10412995289134}
+{"cell": 13, "sc": "A6 unequal var.", "tau2": 0.3, "c": 7, "flags": 210, "sum": 72.63384029523179}
+{"cell": 13, "sc": "A6 unequal var.", "tau2": 0.3, "c": 8, "flags": 216, "sum": 76.91454420717304}
+{"cell": 13, "sc": "A6 unequal var.", "tau2": 0.3, "c": 9, "flags": 211, "sum": 74.47910966726532}
+{"cell": 13, "sc": "A6 unequal var.", "tau2": 0.3, "c": 10, "flags": 221, "sum": 77.95757260874932}
+{"cell": 13, "sc": "A6 unequal var.", "tau2": 0.3, "c": 11, "flags": 212, "sum": 74.60541139984922}
+{"cell": 13, "sc": "A6 unequal var.", "tau2": 0.3, "c": 12, "flags": 221, "sum": 79.2349688123868}
+{"cell": 13, "sc": "A6 unequal var.", "tau2": 0.3, "c": 13, "flags": 209, "sum": 74.37829853717496}
+{"cell": 13, "sc": "A6 unequal var.", "tau2": 0.3, "c": 14, "flags": 221, "sum": 73.6288620004498}
+{"cell": 13, "sc": "A6 unequal var.", "tau2": 0.3, "c": 15, "flags": 223, "sum": 75.28583527988827}
+{"cell": 13, "sc": "A6 unequal var.", "tau2": 0.3, "c": 16, "flags": 221, "sum": 76.52496297810194}
+{"cell": 13, "sc": "A6 unequal var.", "tau2": 0.3, "c": 17, "flags": 217, "sum": 74.30933578019703}
+{"cell": 13, "sc": "A6 unequal var.", "tau2": 0.3, "c": 18, "flags": 217, "sum": 74.80553792408287}
+{"cell": 13, "sc": "A6 unequal var.", "tau2": 0.3, "c": 19, "flags": 221, "sum": 75.69749507295553}
+{"cell": 14, "sc": "A3 shared comp.", "tau2": 0.0, "c": 0, "flags": 5, "sum": -1.1569543538570237}
+{"cell": 14, "sc": "A3 shared comp.", "tau2": 0.0, "c": 1, "flags": 13, "sum": 0.459379941490489}
+{"cell": 14, "sc": "A3 shared comp.", "tau2": 0.0, "c": 2, "flags": 11, "sum": -1.1607029810842957}
+{"cell": 14, "sc": "A3 shared comp.", "tau2": 0.0, "c": 3, "flags": 7, "sum": -0.9512945296708766}

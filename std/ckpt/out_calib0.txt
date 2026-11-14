@@ -1,0 +1,2 @@
+tau2 0.0 chunks 20 N 5000 B 10000 rate 0.0380
+tau2 0.0 chunks 20 N 5000 B 10000 rate 0.0380

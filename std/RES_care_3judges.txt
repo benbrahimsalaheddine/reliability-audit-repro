@@ -1,0 +1,21 @@
+n=1600 summaries, docs=100; B=10000 document-bootstrap draws, seed 0, 90% intervals
+--- coherence: r(G,E)=0.581 r(G,C)=0.040 r(E,C)=0.040
+    one-factor loading^2 G-Eval: 0.582  [-0.563, 1.827]   share of draws with loading^2 > 1: 0.16
+    one-factor loading^2 experts: 0.579  [-0.639, 2.040]   share of draws with loading^2 > 1: 0.16
+    one-factor loading^2 crowd: 0.003  [-0.000, 0.012]   share of draws with loading^2 > 1: 0.00
+    authors' learn_structure on this 3x3, gamma=1: eigenvalues of the low-rank part = [ 0.07  0.   -0.  ]
+--- consistency: r(G,E)=0.575 r(G,C)=0.037 r(E,C)=0.006
+    one-factor loading^2 G-Eval: 3.613  [-6.380, 7.302]   share of draws with loading^2 > 1: 0.41
+    one-factor loading^2 experts: 0.091  [-1.183, 1.127]   share of draws with loading^2 > 1: 0.06
+    one-factor loading^2 crowd: 0.000  [-0.001, 0.005]   share of draws with loading^2 > 1: 0.00
+    authors' learn_structure on this 3x3, gamma=1: eigenvalues of the low-rank part = [ 0.  0. -0.]
+--- fluency: r(G,E)=0.600 r(G,C)=0.024 r(E,C)=0.052
+    one-factor loading^2 G-Eval: 0.282  [-0.636, 0.921]   share of draws with loading^2 > 1: 0.04
+    one-factor loading^2 experts: 1.277  [-3.366, 4.935]   share of draws with loading^2 > 1: 0.41
+    one-factor loading^2 crowd: 0.002  [-0.001, 0.011]   share of draws with loading^2 > 1: 0.00
+    authors' learn_structure on this 3x3, gamma=1: eigenvalues of the low-rank part = [ 0.  0. -0.]
+--- relevance: r(G,E)=0.613 r(G,C)=0.090 r(E,C)=0.072
+    one-factor loading^2 G-Eval: 0.767  [0.408, 1.756]   share of draws with loading^2 > 1: 0.25
+    one-factor loading^2 experts: 0.489  [0.197, 0.887]   share of draws with loading^2 > 1: 0.03
+    one-factor loading^2 crowd: 0.011  [0.002, 0.024]   share of draws with loading^2 > 1: 0.00
+    authors' learn_structure on this 3x3, gamma=1: eigenvalues of the low-rank part = [ 0.0756  0.     -0.    ]

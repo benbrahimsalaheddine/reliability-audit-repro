@@ -1,0 +1,31 @@
+=== coherence: n=155 items
+std/care_summeval.py:42: ComplexWarning: Casting complex values to real discards the imaginary part
+  out['aggregation_weight_share'] = {g: float(np.round(np.sum([wn[i] for i in range(len(names)) if groups[i] == g]), 3)) for g in sorted(set(groups))}
+ A) 3 panel means, gamma=0.5: {'eig': [0.0, -0.0, -0.0], 'factor1': {'C': 0.0, 'E': -0.0, 'J': 0.0}, 'factor2': {'C': 0.0, 'E': 0.0, 'J': 0.0}, 'aggregation_weight_share': {'C': 2.443, 'E': -1.891, 'J': 0.448}}
+pgm_tools:53: UserWarning: Solution may be inaccurate. Try another solver, adjusting the solver settings, or solve with verbose=True for more information.
+ B) 17 raters,     gamma=0.5: {'eig': [1.7448, 1.0819, 0.8851], 'factor1': {'C': 0.021, 'E': -0.206, 'J': 0.357}, 'factor2': {'C': -0.202, 'E': 0.152, 'J': 0.076}, 'aggregation_weight_share': {'C': 0.635, 'E': -0.438, 'J': 0.803}}
+ A) 3 panel means, gamma=1: {'eig': [0.0, 0.0, -0.0], 'factor1': {'C': 0.0, 'E': 0.0, 'J': -0.0}, 'factor2': {'C': -0.0, 'E': 0.0, 'J': 0.0}, 'aggregation_weight_share': {'C': 0.783, 'E': 0.514, 'J': -0.297}}
+ B) 17 raters,     gamma=1: {'eig': [3.0496, 1.8229, 1.659], 'factor1': {'C': 0.033, 'E': -0.232, 'J': 0.475}, 'factor2': {'C': -0.039, 'E': 0.046, 'J': 0.183}, 'aggregation_weight_share': {'C': -0.238, 'E': 0.282, 'J': 0.956}}
+ A) 3 panel means, gamma=3: {'eig': [0.0, 0.0, -0.0], 'factor1': {'C': 0.0, 'E': 0.0, 'J': 0.0}, 'factor2': {'C': -0.0, 'E': -0.0, 'J': 0.0}, 'aggregation_weight_share': {'C': 0.434, 'E': 0.243, 'J': 0.323}}
+ B) 17 raters,     gamma=3: {'eig': [4.2039, 3.7744, 2.5798], 'factor1': {'C': -0.098, 'E': 1.072, 'J': -0.058}, 'factor2': {'C': 0.03, 'E': 0.086, 'J': 0.553}, 'aggregation_weight_share': {'C': 1.877, 'E': 1.531, 'J': -2.407}}
+=== consistency: n=200 items
+ A) 3 panel means, gamma=0.5: {'eig': [0.0, 0.0, -0.0], 'factor1': {'C': -0.0, 'E': 0.0, 'J': 0.0}, 'factor2': {'C': 0.0, 'E': 0.0, 'J': 0.0}, 'aggregation_weight_share': {'C': -0.029, 'E': 0.581, 'J': 0.448}}
+ B) 17 raters,     gamma=0.5: {'eig': [3.2157, 1.4913, 1.2007], 'factor1': {'C': -0.015, 'E': 0.384, 'J': 0.298}, 'factor2': {'C': 0.001, 'E': -0.063, 'J': 0.209}, 'aggregation_weight_share': {'C': 0.878, 'E': 0.917, 'J': -0.795}}
+ A) 3 panel means, gamma=1: {'eig': [0.0, -0.0, -0.0], 'factor1': {'C': 0.0, 'E': 0.0, 'J': 0.0}, 'factor2': {'C': 0.0, 'E': 0.0, 'J': 0.0}, 'aggregation_weight_share': {'C': 0.044, 'E': 0.501, 'J': 0.456}}
+ B) 17 raters,     gamma=1: {'eig': [7.2792, 3.9006, 2.1771], 'factor1': {'C': 0.016, 'E': 0.206, 'J': 0.607}, 'factor2': {'C': -0.05, 'E': 0.137, 'J': 0.32}, 'aggregation_weight_share': {'C': 0.262, 'E': -0.077, 'J': 0.815}}
+ A) 3 panel means, gamma=3: {'eig': [0.0, -0.0, -0.0], 'factor1': {'C': 0.0, 'E': 0.0, 'J': -0.0}, 'factor2': {'C': 0.0, 'E': 0.0, 'J': 0.0}, 'aggregation_weight_share': {'C': 1.938, 'E': 0.438, 'J': -1.376}}
+ B) 17 raters,     gamma=3: {'eig': [8.1599, 6.1564, 3.0206], 'factor1': {'C': -0.01, 'E': 0.322, 'J': 0.734}, 'factor2': {'C': 0.024, 'E': 0.131, 'J': 0.183}, 'aggregation_weight_share': {'C': -0.815, 'E': -0.004, 'J': 1.819}}
+=== fluency: n=200 items
+ A) 3 panel means, gamma=0.5: {'eig': [0.0, -0.0, -0.0], 'factor1': {'C': -0.0, 'E': 0.0, 'J': 0.0}, 'factor2': {'C': 0.0, 'E': 0.0, 'J': 0.0}, 'aggregation_weight_share': {'C': -0.386, 'E': 0.759, 'J': 0.627}}
+ B) 17 raters,     gamma=0.5: {'eig': [1.2964, 1.1921, 0.7088], 'factor1': {'C': -0.02, 'E': -0.023, 'J': 0.264}, 'factor2': {'C': 0.435, 'E': -0.068, 'J': 0.023}, 'aggregation_weight_share': {'C': 1.466, 'E': 0.036, 'J': -0.502}}
+ A) 3 panel means, gamma=1: {'eig': [0.0, -0.0, -0.0], 'factor1': {'C': 0.0, 'E': 0.0, 'J': -0.0}, 'factor2': {'C': 0.0, 'E': 0.0, 'J': 0.0}, 'aggregation_weight_share': {'C': 1.205, 'E': 0.735, 'J': -0.94}}
+ B) 17 raters,     gamma=1: {'eig': [4.409, 2.2589, 1.8686], 'factor1': {'C': -0.102, 'E': 0.033, 'J': 0.459}, 'factor2': {'C': 0.568, 'E': -0.361, 'J': 0.046}, 'aggregation_weight_share': {'C': -1.801, 'E': 0.124, 'J': 2.677}}
+ A) 3 panel means, gamma=3: {'eig': [0.0, -0.0, -0.0], 'factor1': {'C': 0.0, 'E': -0.0, 'J': -0.0}, 'factor2': {'C': 0.0, 'E': 0.0, 'J': 0.0}, 'aggregation_weight_share': {'C': -986.272, 'E': 983.509, 'J': 3.763}}
+ B) 17 raters,     gamma=3: {'eig': [5.8634, 4.9028, 2.9045], 'factor1': {'C': -0.047, 'E': 0.065, 'J': 0.553}, 'factor2': {'C': -0.075, 'E': 1.261, 'J': -0.011}, 'aggregation_weight_share': {'C': -2.259, 'E': -10.242, 'J': 13.501}}
+=== relevance: n=200 items
+ A) 3 panel means, gamma=0.5: {'eig': [0.0, -0.0, -0.0], 'factor1': {'C': 0.001, 'E': 0.0, 'J': -0.0}, 'factor2': {'C': 0.0, 'E': 0.0, 'J': 0.0}, 'aggregation_weight_share': {'C': 0.752, 'E': 0.548, 'J': -0.3}}
+ B) 17 raters,     gamma=0.5: {'eig': [1.833, 1.423, 0.751], 'factor1': {'C': -0.023, 'E': 0.292, 'J': 0.37}, 'factor2': {'C': 0.485, 'E': 0.099, 'J': 0.001}, 'aggregation_weight_share': {'C': 0.33, 'E': 0.268, 'J': 0.402}}
+ A) 3 panel means, gamma=1: {'eig': [0.0, 0.0, -0.0], 'factor1': {'C': 0.0, 'E': -0.0, 'J': 0.0}, 'factor2': {'C': 0.0, 'E': -0.0, 'J': -0.0}, 'aggregation_weight_share': {'C': 0.802, 'E': -0.947, 'J': 1.144}}
+ B) 17 raters,     gamma=1: {'eig': [2.6868, 1.8317, 1.6104], 'factor1': {'C': 0.074, 'E': 0.25, 'J': 0.457}, 'factor2': {'C': 0.517, 'E': -0.161, 'J': -0.05}, 'aggregation_weight_share': {'C': -0.212, 'E': 0.547, 'J': 0.665}}
+ A) 3 panel means, gamma=3: {'eig': [0.0, -0.0, -0.0], 'factor1': {'C': 0.001, 'E': 0.002, 'J': 0.002}, 'factor2': {'C': 0.0, 'E': 0.0, 'J': 0.0}, 'aggregation_weight_share': {'C': 0.106, 'E': 0.493, 'J': 0.401}}
+ B) 17 raters,     gamma=3: {'eig': [3.1632, 2.2772, 1.9535], 'factor1': {'C': 0.051, 'E': 0.369, 'J': 0.479}, 'factor2': {'C': 0.183, 'E': -0.484, 'J': 0.06}, 'aggregation_weight_share': {'C': -1.08, 'E': 1.243, 'J': 0.837}}

@@ -1,0 +1,90 @@
+seed 0 | ===== D3code | panels 8 | items 3622
+seed 0 |    flagged panels: equal 7 of 8, free 7 of 8
+seed 0 | ===== CREHate | panels 5 | items 1580
+seed 0 |    flagged panels: equal 2 of 5, free 2 of 5
+seed 0 | ===== Jigsaw | panels 3 | items 25490
+seed 0 |    flagged panels: equal 2 of 3, free 3 of 3
+seed 0 | ===== IRep | 3 pools | items 4248 | labels used 29 of 31 (all three off-diagonal covariances > 0)
+seed 0 |    labels flagged by pool, equal loadings: {'Budapest': 12, 'Mexico': 7, 'KualaLumpur': 24}
+seed 0 |    labels flagged by pool, free loadings : {'Budapest': 12, 'Mexico': 2, 'KualaLumpur': 21}
+seed 1 | ===== D3code | panels 8 | items 3622
+seed 1 |    flagged panels: equal 6 of 8, free 7 of 8
+seed 1 | ===== CREHate | panels 5 | items 1580
+seed 1 |    flagged panels: equal 2 of 5, free 2 of 5
+seed 1 | ===== Jigsaw | panels 3 | items 25490
+seed 1 |    flagged panels: equal 2 of 3, free 3 of 3
+seed 1 | ===== IRep | 3 pools | items 4248 | labels used 29 of 31 (all three off-diagonal covariances > 0)
+seed 1 |    labels flagged by pool, equal loadings: {'Budapest': 12, 'Mexico': 7, 'KualaLumpur': 24}
+seed 1 |    labels flagged by pool, free loadings : {'Budapest': 10, 'Mexico': 2, 'KualaLumpur': 22}
+seed 2 | ===== D3code | panels 8 | items 3622
+seed 2 |    flagged panels: equal 6 of 8, free 7 of 8
+seed 2 | ===== CREHate | panels 5 | items 1580
+seed 2 |    flagged panels: equal 2 of 5, free 2 of 5
+seed 2 | ===== Jigsaw | panels 3 | items 25490
+seed 2 |    flagged panels: equal 2 of 3, free 3 of 3
+seed 2 | ===== IRep | 3 pools | items 4248 | labels used 29 of 31 (all three off-diagonal covariances > 0)
+seed 2 |    labels flagged by pool, equal loadings: {'Budapest': 12, 'Mexico': 6, 'KualaLumpur': 24}
+seed 2 |    labels flagged by pool, free loadings : {'Budapest': 11, 'Mexico': 2, 'KualaLumpur': 21}
+seed 3 | ===== D3code | panels 8 | items 3622
+seed 3 |    flagged panels: equal 7 of 8, free 7 of 8
+seed 3 | ===== CREHate | panels 5 | items 1580
+seed 3 |    flagged panels: equal 2 of 5, free 2 of 5
+seed 3 | ===== Jigsaw | panels 3 | items 25490
+seed 3 |    flagged panels: equal 2 of 3, free 3 of 3
+seed 3 | ===== IRep | 3 pools | items 4248 | labels used 29 of 31 (all three off-diagonal covariances > 0)
+seed 3 |    labels flagged by pool, equal loadings: {'Budapest': 12, 'Mexico': 7, 'KualaLumpur': 24}
+seed 3 |    labels flagged by pool, free loadings : {'Budapest': 11, 'Mexico': 2, 'KualaLumpur': 22}
+seed 4 | ===== D3code | panels 8 | items 3622
+seed 4 |    flagged panels: equal 6 of 8, free 7 of 8
+seed 4 | ===== CREHate | panels 5 | items 1580
+seed 4 |    flagged panels: equal 2 of 5, free 2 of 5
+seed 4 | ===== Jigsaw | panels 3 | items 25490
+seed 4 |    flagged panels: equal 2 of 3, free 3 of 3
+seed 4 | ===== IRep | 3 pools | items 4248 | labels used 29 of 31 (all three off-diagonal covariances > 0)
+seed 4 |    labels flagged by pool, equal loadings: {'Budapest': 12, 'Mexico': 7, 'KualaLumpur': 24}
+seed 4 |    labels flagged by pool, free loadings : {'Budapest': 11, 'Mexico': 2, 'KualaLumpur': 21}
+seed 5 | ===== D3code | panels 8 | items 3622
+seed 5 |    flagged panels: equal 6 of 8, free 7 of 8
+seed 5 | ===== CREHate | panels 5 | items 1580
+seed 5 |    flagged panels: equal 2 of 5, free 2 of 5
+seed 5 | ===== Jigsaw | panels 3 | items 25490
+seed 5 |    flagged panels: equal 2 of 3, free 3 of 3
+seed 5 | ===== IRep | 3 pools | items 4248 | labels used 29 of 31 (all three off-diagonal covariances > 0)
+seed 5 |    labels flagged by pool, equal loadings: {'Budapest': 12, 'Mexico': 6, 'KualaLumpur': 24}
+seed 5 |    labels flagged by pool, free loadings : {'Budapest': 11, 'Mexico': 2, 'KualaLumpur': 22}
+seed 6 | ===== D3code | panels 8 | items 3622
+seed 6 |    flagged panels: equal 6 of 8, free 7 of 8
+seed 6 | ===== CREHate | panels 5 | items 1580
+seed 6 |    flagged panels: equal 2 of 5, free 2 of 5
+seed 6 | ===== Jigsaw | panels 3 | items 25490
+seed 6 |    flagged panels: equal 2 of 3, free 3 of 3
+seed 6 | ===== IRep | 3 pools | items 4248 | labels used 29 of 31 (all three off-diagonal covariances > 0)
+seed 6 |    labels flagged by pool, equal loadings: {'Budapest': 12, 'Mexico': 6, 'KualaLumpur': 23}
+seed 6 |    labels flagged by pool, free loadings : {'Budapest': 11, 'Mexico': 2, 'KualaLumpur': 22}
+seed 7 | ===== D3code | panels 8 | items 3622
+seed 7 |    flagged panels: equal 6 of 8, free 7 of 8
+seed 7 | ===== CREHate | panels 5 | items 1580
+seed 7 |    flagged panels: equal 2 of 5, free 2 of 5
+seed 7 | ===== Jigsaw | panels 3 | items 25490
+seed 7 |    flagged panels: equal 2 of 3, free 3 of 3
+seed 7 | ===== IRep | 3 pools | items 4248 | labels used 29 of 31 (all three off-diagonal covariances > 0)
+seed 7 |    labels flagged by pool, equal loadings: {'Budapest': 12, 'Mexico': 7, 'KualaLumpur': 24}
+seed 7 |    labels flagged by pool, free loadings : {'Budapest': 11, 'Mexico': 2, 'KualaLumpur': 22}
+seed 8 | ===== D3code | panels 8 | items 3622
+seed 8 |    flagged panels: equal 7 of 8, free 7 of 8
+seed 8 | ===== CREHate | panels 5 | items 1580
+seed 8 |    flagged panels: equal 2 of 5, free 2 of 5
+seed 8 | ===== Jigsaw | panels 3 | items 25490
+seed 8 |    flagged panels: equal 2 of 3, free 3 of 3
+seed 8 | ===== IRep | 3 pools | items 4248 | labels used 29 of 31 (all three off-diagonal covariances > 0)
+seed 8 |    labels flagged by pool, equal loadings: {'Budapest': 11, 'Mexico': 7, 'KualaLumpur': 24}
+seed 8 |    labels flagged by pool, free loadings : {'Budapest': 12, 'Mexico': 2, 'KualaLumpur': 21}
+seed 9 | ===== D3code | panels 8 | items 3622
+seed 9 |    flagged panels: equal 6 of 8, free 7 of 8
+seed 9 | ===== CREHate | panels 5 | items 1580
+seed 9 |    flagged panels: equal 2 of 5, free 2 of 5
+seed 9 | ===== Jigsaw | panels 3 | items 25490
+seed 9 |    flagged panels: equal 2 of 3, free 3 of 3
+seed 9 | ===== IRep | 3 pools | items 4248 | labels used 29 of 31 (all three off-diagonal covariances > 0)
+seed 9 |    labels flagged by pool, equal loadings: {'Budapest': 12, 'Mexico': 6, 'KualaLumpur': 22}
+seed 9 |    labels flagged by pool, free loadings : {'Budapest': 13, 'Mexico': 2, 'KualaLumpur': 21}

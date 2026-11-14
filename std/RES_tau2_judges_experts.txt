@@ -1,0 +1,28 @@
+=== coherence
+dimension coherence: n=155 items, raters E=3 C=5 J=9
+panel E tested against C: tau_hat^2 = +0.844  5th percentile of the bootstrap = +0.650  flag = True   (noise share of Var: 0.217, Cov(E,C) = -0.060)
+panel J tested against E: tau_hat^2 = +0.332  5th percentile of the bootstrap = +0.202  flag = True   (noise share of Var: 0.148, Cov(J,E) = +0.520)
+panel J tested against C: tau_hat^2 = +0.868  5th percentile of the bootstrap = +0.657  flag = True   (noise share of Var: 0.148, Cov(J,C) = -0.016)
+panel E tested against J: tau_hat^2 = +0.263  5th percentile of the bootstrap = +0.133  flag = True   (noise share of Var: 0.217, Cov(E,J) = +0.520)
+panel C tested against J: tau_hat^2 = +0.815  5th percentile of the bootstrap = +0.534  flag = True   (noise share of Var: 0.201, Cov(C,J) = -0.016)
+=== consistency
+dimension consistency: n=200 items, raters E=3 C=5 J=9
+panel E tested against C: tau_hat^2 = +0.891  5th percentile of the bootstrap = +0.546  flag = True   (noise share of Var: 0.048, Cov(E,C) = +0.061)
+panel J tested against E: tau_hat^2 = +0.157  5th percentile of the bootstrap = -0.008  flag = False   (noise share of Var: 0.171, Cov(J,E) = +0.672)
+panel J tested against C: tau_hat^2 = +0.823  5th percentile of the bootstrap = +0.584  flag = True   (noise share of Var: 0.171, Cov(J,C) = +0.006)
+panel E tested against J: tau_hat^2 = +0.280  5th percentile of the bootstrap = +0.116  flag = True   (noise share of Var: 0.048, Cov(E,J) = +0.672)
+panel C tested against J: tau_hat^2 = +0.804  5th percentile of the bootstrap = +0.578  flag = True   (noise share of Var: 0.190, Cov(C,J) = +0.006)
+=== fluency
+dimension fluency: n=200 items, raters E=3 C=5 J=9
+panel E tested against C: tau_hat^2 = +0.907  5th percentile of the bootstrap = +0.554  flag = True   (noise share of Var: 0.085, Cov(E,C) = +0.007)
+panel J tested against E: tau_hat^2 = +0.464  5th percentile of the bootstrap = +0.225  flag = True   (noise share of Var: 0.219, Cov(J,E) = +0.317)
+panel J tested against C: tau_hat^2 = +0.737  5th percentile of the bootstrap = +0.484  flag = True   (noise share of Var: 0.219, Cov(J,C) = +0.044)
+panel E tested against J: tau_hat^2 = +0.598  5th percentile of the bootstrap = +0.352  flag = True   (noise share of Var: 0.085, Cov(E,J) = +0.317)
+panel C tested against J: tau_hat^2 = +0.808  5th percentile of the bootstrap = +0.595  flag = True   (noise share of Var: 0.149, Cov(C,J) = +0.044)
+=== relevance
+dimension relevance: n=200 items, raters E=3 C=5 J=9
+panel E tested against C: tau_hat^2 = +0.578  5th percentile of the bootstrap = +0.393  flag = True   (noise share of Var: 0.295, Cov(E,C) = +0.127)
+panel J tested against E: tau_hat^2 = +0.216  5th percentile of the bootstrap = +0.120  flag = True   (noise share of Var: 0.137, Cov(J,E) = +0.647)
+panel J tested against C: tau_hat^2 = +0.819  5th percentile of the bootstrap = +0.660  flag = True   (noise share of Var: 0.137, Cov(J,C) = +0.045)
+panel E tested against J: tau_hat^2 = +0.057  5th percentile of the bootstrap = -0.056  flag = False   (noise share of Var: 0.295, Cov(E,J) = +0.647)
+panel C tested against J: tau_hat^2 = +0.740  5th percentile of the bootstrap = +0.524  flag = True   (noise share of Var: 0.215, Cov(C,J) = +0.045)

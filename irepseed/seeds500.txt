@@ -1,0 +1,10 @@
+seed 0 B=500:  {'Budapest': 14, 'Mexico': 8, 'KualaLumpur': 24}
+seed 1 B=500:  {'Budapest': 14, 'Mexico': 8, 'KualaLumpur': 25}
+seed 2 B=500:  {'Budapest': 14, 'Mexico': 8, 'KualaLumpur': 25}
+seed 3 B=500:  {'Budapest': 14, 'Mexico': 8, 'KualaLumpur': 25}
+seed 4 B=500:  {'Budapest': 14, 'Mexico': 7, 'KualaLumpur': 23}
+seed 5 B=500:  {'Budapest': 14, 'Mexico': 7, 'KualaLumpur': 25}
+seed 6 B=500:  {'Budapest': 14, 'Mexico': 8, 'KualaLumpur': 25}
+seed 7 B=500:  {'Budapest': 14, 'Mexico': 8, 'KualaLumpur': 25}
+seed 8 B=500:  {'Budapest': 14, 'Mexico': 8, 'KualaLumpur': 26}
+seed 9 B=500:  {'Budapest': 13, 'Mexico': 8, 'KualaLumpur': 24}
